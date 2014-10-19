@@ -5,6 +5,8 @@
 
 ### installation
 
+* `npm install --save hubot-downloads-from-flurry`
+
 * save below environmental variables
 
 ```sh
