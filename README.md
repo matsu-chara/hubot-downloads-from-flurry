@@ -14,4 +14,4 @@ export FLURRY_API_ACCESSCODE=""
 export FLURRY_API_KEY=""
 ```
 
-* add "feedly-hubot" into external-scripts.json
+* add "hubot-downloads-from-flurry" into external-scripts.json
